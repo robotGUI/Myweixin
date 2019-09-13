@@ -1,4 +1,5 @@
 <!--pages/home/home.wxml-->
 <text class="flag">hey girl</text>
 <button size='mini'>点我</button>
+<view>第一次提交</view>
 
